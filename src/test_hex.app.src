@@ -1,6 +1,6 @@
 {application, test_hex,
  [{description, "An OTP application"},
-  {vsn, "0.1.0"},
+  {vsn, "git"},
   {registered, []},
   {mod, {test_hex_app, []}},
   {applications,
